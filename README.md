@@ -2,4 +2,5 @@
 
 ## How to use
 Run `python manage.py runserver` in Terminal
+
 Visit `localhost:8000`
